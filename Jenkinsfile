@@ -5,7 +5,7 @@ pipeline {
         SONAR_SCANNER_HOME = 'C:\\sonar-scanner-5.0.1.3006-windows\\bin'
         SONAR_HOST_URL = 'http://localhost:9000'
         SONAR_PROJECT_KEY = 'MOHAMED'
-        SONAR_LOGIN = 'sqp_9dd8ec10cc06c1cfa20aef9c7aa80fecf2b4388b'
+        SONAR_LOGIN = 'sqa_0b4dc8fa297cd6f8a74da3e66a20db156f8ca76b'
     }
 
     stages {
